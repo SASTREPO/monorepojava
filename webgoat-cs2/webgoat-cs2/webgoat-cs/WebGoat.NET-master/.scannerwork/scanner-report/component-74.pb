@@ -1,0 +1,1 @@
+J8WebGoat/bin/Microsoft.VisualStudio.Shell.Interop.8.0.xml 2xmlX˜Mhr8WebGoat/bin/Microsoft.VisualStudio.Shell.Interop.8.0.xml

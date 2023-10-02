@@ -1,0 +1,1 @@
+:%WebGoat/App_Themes/Default/styles.css 2cssXhr%WebGoat/App_Themes/Default/styles.css

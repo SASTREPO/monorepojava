@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session
+END
+DatabaseUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/DatabaseUtilities.java
+END
+Authorization.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/Authorization.java
+END
+Course.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/Course.java
+END
+UnauthorizedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/UnauthorizedException.java
+END
+ECSFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/ECSFactory.java
+END
+UnauthenticatedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/UnauthenticatedException.java
+END
+WebgoatProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/WebgoatProperties.java
+END
+LessonSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/LessonSession.java
+END
+CreateDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/CreateDB.java
+END
+ValidationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/ValidationException.java
+END
+SequentialLessonTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/SequentialLessonTracker.java
+END
+ParameterNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/ParameterNotFoundException.java
+END
+EmployeeStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/EmployeeStub.java
+END
+LessonTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/LessonTracker.java
+END
+Employee.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/Employee.java
+END
+Screen.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/Screen.java
+END
+Parameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/Parameter.java
+END
+RandomLessonTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/RandomLessonTracker.java
+END
+WebSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/WebSession.java
+END
+ErrorScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/ErrorScreen.java
+END
+UserTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/UserTracker.java
+END
+WebgoatContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/WebgoatContext.java
+END
+ParameterParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/session/ParameterParser.java
+END

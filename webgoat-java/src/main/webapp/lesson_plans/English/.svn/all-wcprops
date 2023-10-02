@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/436/trunk/webgoat/src/main/webapp/lesson_plans/English
+END
+WsSqlInjection.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/WsSqlInjection.html
+END
+ForcedBrowsing.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/ForcedBrowsing.html
+END
+CsrfTokenByPass.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/436/trunk/webgoat/src/main/webapp/lesson_plans/English/CsrfTokenByPass.html
+END
+CsrfPromptByPass.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/436/trunk/webgoat/src/main/webapp/lesson_plans/English/CsrfPromptByPass.html
+END
+CommandInjection.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/CommandInjection.html
+END
+PasswordStrength.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/PasswordStrength.html
+END
+ChallengeScreen.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/ChallengeScreen.html
+END
+SilentTransactions.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/SilentTransactions.html
+END
+XPATHInjection.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/XPATHInjection.html
+END
+MultiLevelLogin2.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/MultiLevelLogin2.html
+END
+CSRF.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/436/trunk/webgoat/src/main/webapp/lesson_plans/English/CSRF.html
+END
+ClientSideValidation.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/ClientSideValidation.html
+END
+DangerousEval.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/DangerousEval.html
+END
+HowToWork.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/436/trunk/webgoat/src/main/webapp/lesson_plans/English/HowToWork.html
+END
+HttpBasics.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/HttpBasics.html
+END
+BackDoors.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/BackDoors.html
+END
+DBSQLInjection.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/DBSQLInjection.html
+END
+Phishing.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/Phishing.html
+END
+BlindSqlInjection.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/BlindSqlInjection.html
+END
+JSONInjection.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/JSONInjection.html
+END
+HttpOnly.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/HttpOnly.html
+END
+BasicAuthentication.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/BasicAuthentication.html
+END
+ForgotPassword.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/ForgotPassword.html
+END
+UsefulTools.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/436/trunk/webgoat/src/main/webapp/lesson_plans/English/UsefulTools.html
+END
+SessionFixation.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/SessionFixation.html
+END
+UncheckedEmail.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/UncheckedEmail.html
+END
+InsecureLogin.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/InsecureLogin.html
+END
+DBCrossSiteScripting.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/DBCrossSiteScripting.html
+END
+OffByOne.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/436/trunk/webgoat/src/main/webapp/lesson_plans/English/OffByOne.html
+END
+WsSAXInjection.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/WsSAXInjection.html
+END
+SoapRequest.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/SoapRequest.html
+END
+NewLesson.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/NewLesson.html
+END
+DOS_Login.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/DOS_Login.html
+END
+HttpSplitting.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/436/trunk/webgoat/src/main/webapp/lesson_plans/English/HttpSplitting.html
+END
+PathBasedAccessControl.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/PathBasedAccessControl.html
+END
+JavaScriptValidation.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/JavaScriptValidation.html
+END
+WeakAuthenticationCookie.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/WeakAuthenticationCookie.html
+END
+DOMInjection.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/DOMInjection.html
+END
+SameOriginPolicyProtection.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/SameOriginPolicyProtection.html
+END
+SqlNumericInjection.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/SqlNumericInjection.html
+END
+Encoding.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/Encoding.html
+END
+ClientSideFiltering.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/ClientSideFiltering.html
+END
+AccessControlMatrix.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/AccessControlMatrix.html
+END
+ReflectedXSS.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/ReflectedXSS.html
+END
+HtmlClues.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/HtmlClues.html
+END
+SQLInjection.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/SQLInjection.html
+END
+XMLInjection.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/XMLInjection.html
+END
+ConcurrencyCart.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/ConcurrencyCart.html
+END
+ThreadSafetyProblem.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/ThreadSafetyProblem.html
+END
+HiddenFieldTampering.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/HiddenFieldTampering.html
+END
+TomcatSetup.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/TomcatSetup.html
+END
+WeakSessionID.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/WeakSessionID.html
+END
+Lesson_Plan_Template.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/Lesson_Plan_Template.html
+END
+DOMXSS.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/DOMXSS.html
+END
+RemoteAdminFlaw.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/RemoteAdminFlaw.html
+END
+RoleBasedAccessControl.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/RoleBasedAccessControl.html
+END
+LogSpoofing.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/LogSpoofing.html
+END
+SqlStringInjection.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/SqlStringInjection.html
+END
+WSDLScanning.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/WSDLScanning.html
+END
+TraceXSS.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/TraceXSS.html
+END
+MultiLevelLogin1.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/MultiLevelLogin1.html
+END
+FailOpenAuthentication.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/FailOpenAuthentication.html
+END
+StoredXss.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/StoredXss.html
+END
+WelcomeScreeen.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/WelcomeScreeen.html
+END
+CrossSiteScripting.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/English/CrossSiteScripting.html
+END

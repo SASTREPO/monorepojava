@@ -1,0 +1,1 @@
+•4WebGoat/WebGoatCoins/ForgotPassword.aspx.designer.cs 2csX-hr4WebGoat/WebGoatCoins/ForgotPassword.aspx.designer.cs

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/436/trunk/webgoat/src/main/webapp/lessons/DBSQLInjection
+END
+DBSQLInjection.css
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lessons/DBSQLInjection/DBSQLInjection.css
+END
+EditProfile.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lessons/DBSQLInjection/EditProfile.jsp
+END
+Login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lessons/DBSQLInjection/Login.jsp
+END
+DBSQLInjection.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lessons/DBSQLInjection/DBSQLInjection.jsp
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lessons/DBSQLInjection/error.jsp
+END
+SearchStaff.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lessons/DBSQLInjection/SearchStaff.jsp
+END
+ViewProfile.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lessons/DBSQLInjection/ViewProfile.jsp
+END
+ListStaff.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/436/trunk/webgoat/src/main/webapp/lessons/DBSQLInjection/ListStaff.jsp
+END

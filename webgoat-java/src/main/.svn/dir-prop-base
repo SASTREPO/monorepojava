@@ -1,0 +1,18 @@
+K 10
+svn:ignore
+V 79
+owasp_distributions
+build
+*.ewf
+*.epf
+*.ppf
+dist
+.classpath
+.project
+.settings
+
+K 13
+svn:mergeinfo
+V 0
+
+END

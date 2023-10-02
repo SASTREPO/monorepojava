@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/413/trunk/webgoat/src/main/scripts
+END
+webgoat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/406/trunk/webgoat/src/main/scripts/webgoat.sh
+END
+server_8080.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/411/trunk/webgoat/src/main/scripts/server_8080.xml
+END
+webgoat for SQL Server.bat
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/413/trunk/webgoat/src/main/scripts/webgoat%20for%20SQL%20Server.bat
+END
+server_80.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/411/trunk/webgoat/src/main/scripts/server_80.xml
+END
+webgoat_8080.bat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/411/trunk/webgoat/src/main/scripts/webgoat_8080.bat
+END
+webgoat.bat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/411/trunk/webgoat/src/main/scripts/webgoat.bat
+END
+webscarab.bat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/406/trunk/webgoat/src/main/scripts/webscarab.bat
+END

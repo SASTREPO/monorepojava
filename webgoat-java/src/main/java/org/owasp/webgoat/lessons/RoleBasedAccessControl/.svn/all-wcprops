@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/436/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/RoleBasedAccessControl
+END
+RoleBasedAccessControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/436/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/RoleBasedAccessControl/RoleBasedAccessControl.java
+END
+DeleteProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/436/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/RoleBasedAccessControl/DeleteProfile.java
+END
+UpdateProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/RoleBasedAccessControl/UpdateProfile.java
+END
+EditProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/RoleBasedAccessControl/EditProfile.java
+END
+ViewProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/RoleBasedAccessControl/ViewProfile.java
+END

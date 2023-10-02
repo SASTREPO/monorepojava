@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/437/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons
+END
+SqlAddData.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/SqlAddData.java
+END
+LessonAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/416/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/LessonAdapter.java
+END
+RandomLessonAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/RandomLessonAdapter.java
+END
+WsSqlInjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/WsSqlInjection.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/436/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/Category.java
+END
+ForcedBrowsing.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/437/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/ForcedBrowsing.java
+END
+CsrfTokenByPass.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/409/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/CsrfTokenByPass.java
+END
+CsrfPromptByPass.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/409/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/CsrfPromptByPass.java
+END
+PasswordStrength.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/PasswordStrength.java
+END
+CommandInjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/CommandInjection.java
+END
+XPATHInjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/437/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/XPATHInjection.java
+END
+SilentTransactions.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/437/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/SilentTransactions.java
+END
+AbstractLesson.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/AbstractLesson.java
+END
+WelcomeScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/WelcomeScreen.java
+END
+CSRF.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/437/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/CSRF.java
+END
+MultiLevelLogin2.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/MultiLevelLogin2.java
+END
+ClientSideValidation.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/ClientSideValidation.java
+END
+DangerousEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/DangerousEval.java
+END
+SqlModifyData.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/SqlModifyData.java
+END
+HowToWork.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/HowToWork.java
+END
+BypassHtmlFieldRestrictions.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/BypassHtmlFieldRestrictions.java
+END
+HttpBasics.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/HttpBasics.java
+END
+BackDoors.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/437/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/BackDoors.java
+END
+Phishing.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/436/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/Phishing.java
+END
+JSONInjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/437/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/JSONInjection.java
+END
+BasicAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/BasicAuthentication.java
+END
+HttpOnly.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/HttpOnly.java
+END
+ForgotPassword.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/ForgotPassword.java
+END
+UsefulTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/UsefulTools.java
+END
+SessionFixation.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/436/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/SessionFixation.java
+END
+UncheckedEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/UncheckedEmail.java
+END
+InsecureLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/InsecureLogin.java
+END
+OffByOne.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/436/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/OffByOne.java
+END
+WsSAXInjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/WsSAXInjection.java
+END
+SoapRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/SoapRequest.java
+END
+NewLesson.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/437/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/NewLesson.java
+END
+HttpSplitting.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/437/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/HttpSplitting.java
+END
+BlindScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/BlindScript.java
+END
+DOS_Login.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/DOS_Login.java
+END
+PathBasedAccessControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/PathBasedAccessControl.java
+END
+WeakAuthenticationCookie.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/WeakAuthenticationCookie.java
+END
+JavaScriptValidation.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/JavaScriptValidation.java
+END
+DOMInjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/437/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/DOMInjection.java
+END
+SameOriginPolicyProtection.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/SameOriginPolicyProtection.java
+END
+SqlNumericInjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/SqlNumericInjection.java
+END
+Encoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/Encoding.java
+END
+AccessControlMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/AccessControlMatrix.java
+END
+ReflectedXSS.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/ReflectedXSS.java
+END
+BlindNumericSqlInjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/BlindNumericSqlInjection.java
+END
+SequentialLessonAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/SequentialLessonAdapter.java
+END
+HtmlClues.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/HtmlClues.java
+END
+BlindStringSqlInjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/BlindStringSqlInjection.java
+END
+XMLInjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/437/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/XMLInjection.java
+END
+ThreadSafetyProblem.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/ThreadSafetyProblem.java
+END
+Challenge2Screen.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/Challenge2Screen.java
+END
+ConcurrencyCart.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/ConcurrencyCart.java
+END
+HiddenFieldTampering.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/HiddenFieldTampering.java
+END
+WeakSessionID.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/WeakSessionID.java
+END
+TomcatSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/TomcatSetup.java
+END
+MaliciousFileExecution.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/436/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/MaliciousFileExecution.java
+END
+DOMXSS.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/436/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/DOMXSS.java
+END
+RemoteAdminFlaw.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/RemoteAdminFlaw.java
+END
+LogSpoofing.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/437/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/LogSpoofing.java
+END
+SqlStringInjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/436/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/SqlStringInjection.java
+END
+WSDLScanning.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/436/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/WSDLScanning.java
+END
+MultiLevelLogin1.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/MultiLevelLogin1.java
+END
+TraceXSS.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/TraceXSS.java
+END
+FailOpenAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/FailOpenAuthentication.java
+END
+StoredXss.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/StoredXss.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/436/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/SQLInjection
+END
+ListStaff.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/SQLInjection/ListStaff.java
+END
+SQLInjection.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/436/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/SQLInjection/SQLInjection.java
+END
+Login.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/SQLInjection/Login.java
+END
+ViewProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/SQLInjection/ViewProfile.java
+END

@@ -1,0 +1,1 @@
+Ø4WebGoat/Resources/client-scripts/jquery-1.6.2.min.js 2jsXhr4WebGoat/Resources/client-scripts/jquery-1.6.2.min.js

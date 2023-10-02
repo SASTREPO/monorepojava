@@ -1,0 +1,1 @@
+æWebGoat/lib/log4net.xml 2xmlXÅ„hrWebGoat/lib/log4net.xml

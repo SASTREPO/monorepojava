@@ -1,0 +1,1 @@
+Þ WebGoat/Resources/client-scripts :ÝÙÛÜØ×Úr WebGoat\Resources\client-scripts

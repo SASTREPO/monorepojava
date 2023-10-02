@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/CrossSiteScripting
+END
+CrossSiteScripting.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/CrossSiteScripting/CrossSiteScripting.java
+END
+FindProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/CrossSiteScripting/FindProfile.java
+END
+UpdateProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/CrossSiteScripting/UpdateProfile.java
+END
+EditProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/CrossSiteScripting/EditProfile.java
+END
+ViewProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/CrossSiteScripting/ViewProfile.java
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/German
+END
+PathBasedAccessControl.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/German/PathBasedAccessControl.html
+END
+StoredXss.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/German/StoredXss.html
+END
+RemoteAdminFlaw.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/German/RemoteAdminFlaw.html
+END
+HtmlClues.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/German/HtmlClues.html
+END
+BasicAuthentication.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/German/BasicAuthentication.html
+END
+JavaScriptValidation.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/German/JavaScriptValidation.html
+END
+CommandInjection.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/German/CommandInjection.html
+END
+WeakAuthenticationCookie.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/German/WeakAuthenticationCookie.html
+END
+HttpBasics.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/German/HttpBasics.html
+END
+SqlNumericInjection.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/German/SqlNumericInjection.html
+END
+HiddenFieldTampering.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/German/HiddenFieldTampering.html
+END
+LogSpoofing.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/German/LogSpoofing.html
+END
+SqlStringInjection.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/German/SqlStringInjection.html
+END
+ReflectedXSS.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lesson_plans/German/ReflectedXSS.html
+END

@@ -1,0 +1,1 @@
+L4WebGoat/bin/Microsoft.VisualStudio.Shell.Interop.xml 2xmlX°€hr4WebGoat/bin/Microsoft.VisualStudio.Shell.Interop.xml

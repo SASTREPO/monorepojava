@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lessons/Ajax
+END
+employees.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lessons/Ajax/employees.xml
+END
+eval.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lessons/Ajax/eval.jsp
+END
+clientSideFiltering.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lessons/Ajax/clientSideFiltering.jsp
+END
+clientSideFiltering_backup.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lessons/Ajax/clientSideFiltering_backup.jsp
+END
+sameOrigin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lessons/Ajax/sameOrigin.jsp
+END
+clientSideValidation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/394/trunk/webgoat/src/main/webapp/lessons/Ajax/clientSideValidation.jsp
+END

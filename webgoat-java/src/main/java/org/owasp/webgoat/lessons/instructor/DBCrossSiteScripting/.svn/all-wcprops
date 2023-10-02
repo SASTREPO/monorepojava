@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/instructor/DBCrossSiteScripting
+END
+RegexMatch.dll
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/instructor/DBCrossSiteScripting/RegexMatch.dll
+END
+RegexMatch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/instructor/DBCrossSiteScripting/RegexMatch.cs
+END
+UpdateProfile_i.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/394/trunk/webgoat/src/main/java/org/owasp/webgoat/lessons/instructor/DBCrossSiteScripting/UpdateProfile_i.java
+END
